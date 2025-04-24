@@ -26,7 +26,7 @@ let num1=12;
 let fact=[]
 for(let i=1;i<num1;i++){
     if(num1%i==0){
-        fact.push(i)
+        fact.push(i) 
     }
 }
 console.log(fact)
