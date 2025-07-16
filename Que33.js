@@ -1,7 +1,7 @@
 //1.question array
 
-// let arr = [1, 2, 0, 4, 0, 6, 0, 9, 8];
-// let count = 0; 
+let arr = [1, 2, 0, 4, 0, 6, 0, 9, 8];
+let count = 0; 
 
 // for(let i=0;i<arr.length;i++){
 //     if(arr[i]!=0){
