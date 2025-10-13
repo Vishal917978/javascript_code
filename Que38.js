@@ -47,3 +47,29 @@
 
 
 
+//4 falten array
+
+// let arr=[1,2,[3,4],5,[6,7,8],9];
+// let dup=[];
+// for(let i=0;i<arr.length;i++){
+//     if(Array.isArray(arr[i])){
+//         dup=dup.concat(arr[i])
+//     }else{
+//         dup.push(arr[i])
+//     }
+// }
+// console.log(dup)
+
+//5.intersaction of two array
+
+// let arr=[1,2,3,4,5];
+// let arr1=[2,3,7];
+// let dup=[];
+// for(let i=0;i<arr.length;i++){
+//   for(let j=0;j<arr1.length;j++){
+//         if(arr[i]==arr1[j]){
+//         dup.push(arr[i])
+//     }
+//   }
+// }
+// console.log(dup)

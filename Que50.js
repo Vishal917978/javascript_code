@@ -1,4 +1,6 @@
-// let arr=[1,2,3,4,5,6];
+//Q1. array intersection 
+
+//let arr=[1,2,3,4,5,6];
 // let arr2=[7,8,3,2,1,9,8];
 // for(let i=0;i<arr.length;i++){
 //     for(let j=0;j<arr2.length;j++){
@@ -8,6 +10,8 @@
 //     }
 // }
 // console.log(arr)
+
+//Que2.count of each character in array
 
 // let arr=[1,2,3,4,3,2,6,5,3,1];
 // let dup=[]
@@ -25,6 +29,7 @@
 //     dup.push(arr[i]);
 // }
 
+//Que.3 find pair with given sum in array
 
 // let arr=[1,2,3,4,5,6,7];
 // for(let i=0;i<arr.length;i++){
